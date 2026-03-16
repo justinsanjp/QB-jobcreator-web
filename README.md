@@ -57,4 +57,4 @@ Open to feedback and improvement suggestions via GitHub Issues.
 No pull requests accepted due to usage restrictions.
 
 License
-See LICENSE - Custom restrictive license.
+See [LICENSE](LICENSE.md) - Custom restrictive license.
